@@ -1,0 +1,8 @@
+*.pyc
+
+# editer
+.idea
+.DS_Store
+
+# database file
+db.sqlite3
